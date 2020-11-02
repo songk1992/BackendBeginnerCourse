@@ -27,7 +27,10 @@ Backend beginner course ( +time management )
 This repository follows and refers to this video
 
 ## 01 [Backend(Overview)](https://www.youtube.com/watch?v=gqdc4jLjGKQ)
-what to learn
+
+What is Backend Developer?
+
+"A back-end web developer is responsible for server-side web application logic and integration of the work front-end developers do. Back-end developers are usually write the web services and APIs used by front-end developers and mobile application developers." [Backend Developers Definition From TOPTAL](https://www.toptal.com/back-end/job-description#:~:text=A%20back%2Dend%20web%20developer,developers%20and%20mobile%20application%20developers.)
 
 
 
