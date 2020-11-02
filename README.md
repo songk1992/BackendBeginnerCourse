@@ -21,7 +21,9 @@ Backend beginner course ( +time management )
     
   for further reference.  
   
-  This repository includes my foot pritnts of path to greatness(backend developer)  
+  This repository includes my foot pritnts of path to greatness(backend developer)
+  
+  this course lists could be seen as my diary and what I have been doing or blueprint for you to follow
   
   
 This repository follows and refers to this video
@@ -59,7 +61,9 @@ Hours : 100Hr
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)</br></br>
 
 
+[Build Responsive Real World Websites with HTML5 and CSS3 / this course cost money](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
+(javascript course)</br></br>
 
 
 
