@@ -33,6 +33,19 @@ what to learn
 
 ## 02 [CS50](https://youtu.be/gqdc4jLjGKQ?t=292)
 Hours : 50Hr  
+  
+Description : Basic Knowledge of CS  
+   
+CS50 Lecture 2019(Havard)</br></br>
+[Computational Thinking Scratch](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=1)</br></br>
+[C](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=2)</br></br>
+[Arrays](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=3)</br></br>
+[Algorithms](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=4)</br></br>
+[Memory](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=5)</br></br>
+[Data](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=6)</br></br>
+[Python](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=7)</br></br>
+[SQL](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=8)</br></br>
+[Information](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=9)</br></br>
 
 
 
