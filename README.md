@@ -3,7 +3,7 @@ Backend beginner course ( +time management )
 
 <img src="https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_960_720.png" align="center" height="240" alt="backend"/>
 
-[![Visit Website](https://img.shields.io/github/directory-file-count/songk1992/BackendBeginnerCourse)](https://griddb.net)
+[![Visit Website](https://img.shields.io/github/directory-file-count/songk1992/BackendBeginnerCourse)](https://nxver.com/)
 
 ## Overview
   
