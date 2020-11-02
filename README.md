@@ -25,8 +25,6 @@ Backend beginner course ( +time management )
   
   this course lists could be seen as my diary and what I have been doing or blueprint for you to follow
   
-  
-This repository follows and refers to this video
 
 ## 01 [Backend(Overview)](https://www.youtube.com/watch?v=gqdc4jLjGKQ)
 
